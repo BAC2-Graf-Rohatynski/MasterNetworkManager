@@ -1,0 +1,4 @@
+package masternetworkmanager.slave.handler.interfaces
+
+
+interface ISlaveHandler
